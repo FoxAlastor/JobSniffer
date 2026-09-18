@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+.env
+
+build/
+dist/
+*.spec
+
+*.log
+*.tmp
+*.bak
+
+# Local runtime state (keep the shipped sample settings.json separately if desired)
+blocked_vacancies.json
