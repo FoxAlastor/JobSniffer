@@ -1,5 +1,7 @@
 # JobSniffer — Robota.ua Remote Vacancies Explorer
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/da1c161f-37ae-4ea8-bc79-61081bc59718" />
+
 JobSniffer — настільний застосунок для Windows на Python і PyQt6, який завантажує віддалені вакансії з Robota.ua, фільтрує їх за чорним списком і дозволяє швидко переглядати деталі.
 
 ## Можливості
